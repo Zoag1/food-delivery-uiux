@@ -8,7 +8,7 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
 
 ### Dokumentasi Desain & Prototipe (Figma)
   1. Video Alur Prototipe Interaktif <br>
-     [📹 Lihat Video Prototipe Interaktif (prototipe.mp4)](prototipe.mp4)
+     [📹 Lihat Video Prototipe Interaktif](prototipe.mp4)
      
 ### Aset Tampilan Layar (UI Screens)
 1. Home Screen<br>
