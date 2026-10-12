@@ -6,7 +6,11 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
 2. Kustomisasi Pesanan (Detail & Add-Ons): Memberikan kebebasan bagi pengguna untuk menambahkan topping/kondimen ekstra (seperti keju, saus, cabai) serta melihat estimasi waktu pengiriman.
 3. Manajemen Keranjang & Checkout: Menyediakan halaman keranjang belanja yang transparan beserta konfirmasi transaksi *Successful Purchase* yang jelas.
 
-### Dokumentasi Desain (Figma UI Screens)
+### Dokumentasi Desain & Prototipe (Figma)
+  1. Video Alur Prototipe Interaktif <br>
+     [📹 Lihat Video Prototipe Interaktif (prototipe.mp4)](prototipe.mp4)
+     
+### Aset Tampilan Layar (UI Screens)
 1. Home Screen<br>
    [🖼️ Lihat Home screen](Home%20screen.png)
 3. Buy / Product Detail Screen <br>
