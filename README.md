@@ -13,7 +13,7 @@ Proyek ini merupakan portofolio dan dokumentasi desain Antarmuka Pengguna (*UI/U
   [🖼️ Lihat Buy screen](Buy%20screen.png)
 4. Cart Screen <br>
   [🖼️ Lihat Cart screen](Cart%20screen.png)
-5. Successful Purchase Screen 
+5. Successful Purchase Screen <br>
   [🖼️ Lihat Succesful Purchase screen](Succesful%20Purchase%20screen.jpg)
 
 ### Kontak
